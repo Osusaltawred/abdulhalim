@@ -7,7 +7,7 @@
 
   const DATA = window.ARCHIVE_DATA || {};
   const STORAGE_PREFIX = 'ahl_';
-  const DEFAULT_PASSWORD = 'admin123';
+  const DEFAULT_PASSWORD = '0000';
 
   // Load custom data from LocalStorage
   let customData = {
